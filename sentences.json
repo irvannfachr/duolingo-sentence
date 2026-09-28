@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "type": "ja_to_id",
+    "question": "わたしは ごはんを たべます。",
+    "answer": "Saya makan nasi.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 2,
+    "type": "ja_to_id",
+    "question": "わたしは パンを たべます。",
+    "answer": "Saya makan roti.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 3,
+    "type": "ja_to_id",
+    "question": "わたしは さかなを たべます。",
+    "answer": "Saya makan ikan.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 4,
+    "type": "ja_to_id",
+    "question": "わたしは てんぷらを たべます。",
+    "answer": "Saya makan tempura.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 5,
+    "type": "ja_to_id",
+    "question": "わたしは やさいを たべます。",
+    "answer": "Saya makan sayur.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 6,
+    "type": "ja_to_id",
+    "question": "わたしは にくを たべます。",
+    "answer": "Saya makan daging.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 7,
+    "type": "ja_to_id",
+    "question": "わたしは うどんを たべます。",
+    "answer": "Saya makan mi udon.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 8,
+    "type": "ja_to_id",
+    "question": "わたしは おすしを たべます。",
+    "answer": "Saya makan sushi.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 9,
+    "type": "ja_to_id",
+    "question": "わたしは カレーを たべます。",
+    "answer": "Saya makan kari.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 10,
+    "type": "ja_to_id",
+    "question": "わたしは ラーメンを たべます。",
+    "answer": "Saya makan ramen.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 11,
+    "type": "ja_to_id",
+    "question": "わたしは バナナを たべます。",
+    "answer": "Saya makan pisang.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 12,
+    "type": "ja_to_id",
+    "question": "わたしは ピザを たべます。",
+    "answer": "Saya makan pizza.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 13,
+    "type": "ja_to_id",
+    "question": "わたしは ハンバーガーを たべます。",
+    "answer": "Saya makan hamburger.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 14,
+    "type": "ja_to_id",
+    "question": "わたしは くだものを たべます。",
+    "answer": "Saya makan buah-buahan.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 15,
+    "type": "ja_to_id",
+    "question": "わたしは あさごはんを たべます。",
+    "answer": "Saya makan sarapan.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 16,
+    "type": "id_to_ja",
+    "question": "Saya minum air.",
+    "answer": "わたしは みずを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 17,
+    "type": "id_to_ja",
+    "question": "Saya minum teh.",
+    "answer": "わたしは おちゃを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 18,
+    "type": "id_to_ja",
+    "question": "Saya minum kopi.",
+    "answer": "わたしは コーヒーを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 19,
+    "type": "id_to_ja",
+    "question": "Saya minum susu sapi.",
+    "answer": "わたしは ぎゅうにゅうを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 20,
+    "type": "id_to_ja",
+    "question": "Saya minum teh hitam.",
+    "answer": "わたしは こうちゃを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 21,
+    "type": "id_to_ja",
+    "question": "Saya minum sup miso.",
+    "answer": "わたしは みそしるを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 22,
+    "type": "id_to_ja",
+    "question": "Saya minum daging.",
+    "answer": "わたしは にくを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 23,
+    "type": "id_to_ja",
+    "question": "Saya minum mi udon.",
+    "answer": "わたしは うどんを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 24,
+    "type": "id_to_ja",
+    "question": "Saya minum sushi.",
+    "answer": "わたしは おすしを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 25,
+    "type": "id_to_ja",
+    "question": "Saya minum kari.",
+    "answer": "わたしは カレーを のみます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 26,
+    "type": "ja_to_id",
+    "question": "わたしは サッカーが すきです。",
+    "answer": "Saya suka sepak bola.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 27,
+    "type": "ja_to_id",
+    "question": "わたしは アニメが すきです。",
+    "answer": "Saya suka anime.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 28,
+    "type": "ja_to_id",
+    "question": "わたしは ポップスが すきです。",
+    "answer": "Saya suka musik pop.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 29,
+    "type": "ja_to_id",
+    "question": "わたしは どくしょが すきです。",
+    "answer": "Saya suka membaca.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 30,
+    "type": "ja_to_id",
+    "question": "わたしは コンピューターゲームが すきです。",
+    "answer": "Saya suka game komputer.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 31,
+    "type": "ja_to_id",
+    "question": "わたしは おんがくが すきです。",
+    "answer": "Saya suka musik.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 32,
+    "type": "ja_to_id",
+    "question": "わたしは カラオケが すきです。",
+    "answer": "Saya suka karaoke.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 33,
+    "type": "ja_to_id",
+    "question": "わたしは ダンスが すきです。",
+    "answer": "Saya suka dansa.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 34,
+    "type": "ja_to_id",
+    "question": "わたしは スポーツが すきです。",
+    "answer": "Saya suka olahraga.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 35,
+    "type": "ja_to_id",
+    "question": "わたしは えいがが すきです。",
+    "answer": "Saya suka film.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 36,
+    "type": "ja_to_id",
+    "question": "わたしは がっこうへ いきます。",
+    "answer": "Saya pergi ke sekolah.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 37,
+    "type": "ja_to_id",
+    "question": "わたしは にほんへ いきます。",
+    "answer": "Saya pergi ke Jepang.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 38,
+    "type": "ja_to_id",
+    "question": "わたしは とうきょうへ いきます。",
+    "answer": "Saya pergi ke Tokyo.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 39,
+    "type": "ja_to_id",
+    "question": "わたしは きょうとへ いきます。",
+    "answer": "Saya pergi ke Kyoto.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 40,
+    "type": "ja_to_id",
+    "question": "わたしは おおさかへ いきます。",
+    "answer": "Saya pergi ke Osaka.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 41,
+    "type": "ja_to_id",
+    "question": "わたしは あさくさへ いきます。",
+    "answer": "Saya pergi ke Asakusa.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 42,
+    "type": "ja_to_id",
+    "question": "わたしは しぶやへ いきます。",
+    "answer": "Saya pergi ke Shibuya.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 43,
+    "type": "ja_to_id",
+    "question": "わたしは よこはまへ いきます。",
+    "answer": "Saya pergi ke Yokohama.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 44,
+    "type": "ja_to_id",
+    "question": "わたしは ホテルへ いきます。",
+    "answer": "Saya pergi ke hotel.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 45,
+    "type": "ja_to_id",
+    "question": "わたしは えきへ いきます。",
+    "answer": "Saya pergi ke stasiun.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 46,
+    "type": "id_to_ja",
+    "question": "Saya pergi ke sekolah bersama teman.",
+    "answer": "ともだちと いっしょに がっこうへ いきます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 47,
+    "type": "id_to_ja",
+    "question": "Saya pergi ke Jepang bersama teman.",
+    "answer": "ともだちと いっしょに にほんへ いきます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 48,
+    "type": "id_to_ja",
+    "question": "Saya pergi ke Tokyo bersama teman.",
+    "answer": "ともだちと いっしょに とうきょうへ いきます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 49,
+    "type": "id_to_ja",
+    "question": "Saya pergi ke Kyoto bersama teman.",
+    "answer": "ともだちと いっしょに きょうとへ いきます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 50,
+    "type": "id_to_ja",
+    "question": "Saya pergi ke Osaka bersama teman.",
+    "answer": "ともだちと いっしょに おおさかへ いきます。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 51,
+    "type": "ja_to_id",
+    "question": "つくえに ほんが あります。",
+    "answer": "Ada buku di meja.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 52,
+    "type": "ja_to_id",
+    "question": "へやに いすが あります。",
+    "answer": "Ada kursi di kamar.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 53,
+    "type": "ja_to_id",
+    "question": "いえに ねこが あります。",
+    "answer": "Ada kucing di rumah.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 54,
+    "type": "ja_to_id",
+    "question": "こうえんに いぬが あります。",
+    "answer": "Ada anjing di taman.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 55,
+    "type": "ja_to_id",
+    "question": "たなに ほんが あります。",
+    "answer": "Ada buku di rak.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 56,
+    "type": "id_to_ja",
+    "question": "Ada buku di meja.",
+    "answer": "つくえに ほんが あります。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 57,
+    "type": "id_to_ja",
+    "question": "Ada kursi di kamar.",
+    "answer": "へやに いすが あります。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 58,
+    "type": "id_to_ja",
+    "question": "Ada kucing di rumah.",
+    "answer": "いえに ねこが あります。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 59,
+    "type": "id_to_ja",
+    "question": "Ada anjing di taman.",
+    "answer": "こうえんに いぬが あります。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 60,
+    "type": "id_to_ja",
+    "question": "Ada buku di rak.",
+    "answer": "たなに ほんが あります。",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 61,
+    "type": "ja_to_id",
+    "question": "その へやは おおきいです。",
+    "answer": "Kamar itu besar.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 62,
+    "type": "ja_to_id",
+    "question": "その いえは ちいさいです。",
+    "answer": "Rumah itu kecil.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 63,
+    "type": "ja_to_id",
+    "question": "その こうえんは ひろいです。",
+    "answer": "Taman itu luas.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 64,
+    "type": "ja_to_id",
+    "question": "その へやは きれいです。",
+    "answer": "Kamar itu indah.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 65,
+    "type": "ja_to_id",
+    "question": "その とおりは しずかです。",
+    "answer": "Jalan itu tenang.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 66,
+    "type": "ja_to_id",
+    "question": "その みせは にぎやかです。",
+    "answer": "Toko itu ramai.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 67,
+    "type": "ja_to_id",
+    "question": "その アパートは あたらしいです。",
+    "answer": "Apartemen itu baru.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 68,
+    "type": "ja_to_id",
+    "question": "その いえは ふるいです。",
+    "answer": "Rumah itu lama.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 69,
+    "type": "ja_to_id",
+    "question": "その ビルは たかいです。",
+    "answer": "Bangunan itu tinggi.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 70,
+    "type": "ja_to_id",
+    "question": "その はなしは おもしろいです。",
+    "answer": "Cerita itu menarik.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 71,
+    "type": "ja_to_id",
+    "question": "ごぜん しちじ、わたしは おきます。",
+    "answer": "Pukul tujuh pagi, saya bangun.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 72,
+    "type": "ja_to_id",
+    "question": "じゅうじ、わたしは ねます。",
+    "answer": "Pukul sepuluh, saya tidur.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 73,
+    "type": "ja_to_id",
+    "question": "ごご ろくじ、わたしは かえります。",
+    "answer": "Pukul enam sore, saya pulang.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 74,
+    "type": "ja_to_id",
+    "question": "まいにち、わたしは べんきょうします。",
+    "answer": "Setiap hari, saya belajar.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 75,
+    "type": "ja_to_id",
+    "question": "よる、わたしは おんがくを ききます。",
+    "answer": "Malam hari, saya mendengarkan musik.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 76,
+    "type": "ja_to_id",
+    "question": "あした、わたしは コンサートへ いきます。",
+    "answer": "Besok, saya pergi ke konser.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 77,
+    "type": "ja_to_id",
+    "question": "きのう、わたしは かいものを しました。",
+    "answer": "Kemarin, saya berbelanja.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 78,
+    "type": "ja_to_id",
+    "question": "らいしゅう、わたしは にほんへ いきます。",
+    "answer": "Minggu depan, saya pergi ke Jepang.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 79,
+    "type": "ja_to_id",
+    "question": "こんしゅう、わたしは いそがしいです。",
+    "answer": "Minggu ini, saya sibuk.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 80,
+    "type": "ja_to_id",
+    "question": "きょう、わたしは ラーメンを たべます。",
+    "answer": "Hari ini, saya makan ramen.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 81,
+    "type": "ja_to_id",
+    "question": "わたしは がくせいです。",
+    "answer": "Saya seorang siswa.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 82,
+    "type": "ja_to_id",
+    "question": "ちちは かいしゃいんです。",
+    "answer": "Ayah saya adalah karyawan.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 83,
+    "type": "ja_to_id",
+    "question": "ははは きょうしです。",
+    "answer": "Ibu saya adalah guru.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 84,
+    "type": "ja_to_id",
+    "question": "かれは にほんじんです。",
+    "answer": "Dia adalah orang Jepang.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 85,
+    "type": "ja_to_id",
+    "question": "あの ひとは エンジニアです。",
+    "answer": "Orang itu adalah insinyur.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 86,
+    "type": "ja_to_id",
+    "question": "わたしは はなを あげます。",
+    "answer": "Saya memberi bunga.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 87,
+    "type": "ja_to_id",
+    "question": "わたしは プレゼントを もらいます。",
+    "answer": "Saya menerima hadiah.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 88,
+    "type": "ja_to_id",
+    "question": "わたしは バッグが ほしいです。",
+    "answer": "Saya ingin tas.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 89,
+    "type": "ja_to_id",
+    "question": "わたしは あおい ジーンズを はきます。",
+    "answer": "Saya memakai jeans biru.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 90,
+    "type": "ja_to_id",
+    "question": "わたしは しろい シャツを きます。",
+    "answer": "Saya memakai kemeja putih.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 91,
+    "type": "ja_to_id",
+    "question": "わたしは バスに のります。",
+    "answer": "Saya naik bus.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 92,
+    "type": "ja_to_id",
+    "question": "わたしは でんしゃに のります。",
+    "answer": "Saya naik kereta.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 93,
+    "type": "ja_to_id",
+    "question": "わたしは しんかんせんに のります。",
+    "answer": "Saya naik shinkansen.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 94,
+    "type": "ja_to_id",
+    "question": "わたしは くるまで いきます。",
+    "answer": "Saya pergi dengan mobil.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 95,
+    "type": "ja_to_id",
+    "question": "わたしは でんしゃを おります。",
+    "answer": "Saya turun dari kereta.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 96,
+    "type": "ja_to_id",
+    "question": "それから、ホテルへ いきます。",
+    "answer": "Lalu, saya pergi ke hotel.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 97,
+    "type": "ja_to_id",
+    "question": "はなびたいかいは とても たのしいです。",
+    "answer": "Festival kembang api sangat menyenangkan.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 98,
+    "type": "ja_to_id",
+    "question": "もう かえりました。",
+    "answer": "Saya sudah pulang.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 99,
+    "type": "ja_to_id",
+    "question": "どこにも いきません。",
+    "answer": "Saya tidak pergi ke mana pun.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  },
+  {
+    "id": 100,
+    "type": "ja_to_id",
+    "question": "なにも たべません。",
+    "answer": "Saya tidak makan apa-apa.",
+    "source_note": "Kalimat latihan orisinal yang disusun berdasarkan kosakata kotoba.json; bukan kutipan kalimat dari PDF."
+  }
+]
